@@ -1,34 +1,47 @@
-# Java DSA Bootcamp 
+#  Java DSA Bootcamp
 
-This repository contains my Java and Data Structures & Algorithms (DSA) preparation for Software Engineering placements.
+This repository documents my Java + DSA preparation for Software Engineering placements.
 
-##  Topics Covered
+##  Current Progress
 
-- ✅ Java Basics
-- ✅ Scanner
-- ✅ Operators
-- ✅ Conditions
-- ✅ Methods
-- ✅ Loops
+- [x] Java Basics
+- [x] Scanner
+- [x] Operators
+- [x] Conditions
+- [x] Methods
+- [x] Loops
+- [ ] Arrays
+- [ ] Strings
+- [ ] Time Complexity
+- [ ] NeetCode 150
 
-##  Upcoming Topics
+---
 
-- Arrays
-- Strings
-- Time Complexity
-- NeetCode 150
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
+##  Current Goal
 
-##  Goal
+Complete Java fundamentals and begin solving NeetCode 150.
+
+---
+
+##  Stats
+
+- Day: 1
+- Problems Solved: 32
+- Current Topic: Loops
+
+---
+
+##  Tech Stack
+
+- Java
+- VS Code
+- Git
+- GitHub
+
+---
+
+##  Final Goal
 
 - Crack Software Engineering placements.
 - Solve NeetCode 150.
 - Build strong problem-solving skills.
-
----
-
-**Started:** August 2026
