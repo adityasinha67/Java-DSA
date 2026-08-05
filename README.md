@@ -2,6 +2,24 @@
 
 This repository documents my Java + DSA preparation for Software Engineering placements.
 
+## Repository Structure
+
+01 - Java Basics
+
+02 - Scanner
+
+03 - Conditions
+
+04 - Methods
+
+05 - Loops
+
+06 - Arrays
+
+07 - Strings
+
+08 - Time Complexity
+
 ##  Current Progress
 
 - [x] Java Basics
@@ -13,35 +31,30 @@ This repository documents my Java + DSA preparation for Software Engineering pla
 - [ ] Arrays
 - [ ] Strings
 - [ ] Time Complexity
-- [ ] NeetCode 150
+- [ ] Pattern Based DSA 
 
 ---
 
 ##  Current Goal
 
-Complete Java fundamentals and begin solving NeetCode 150.
+Complete Java fundamentals and master DSA for Software Engineering interviews.
 
 ---
 
 ##  Stats
 
-- Day: 1
-- Problems Solved: 32
-- Current Topic: Loops
-
----
-
-##  Tech Stack
-
-- Java
-- VS Code
-- Git
-- GitHub
+- Day: 2
+- Problems Solved: 45
+- Current Topic: Arrays
 
 ---
 
 ##  Final Goal
 
-- Crack Software Engineering placements.
-- Solve NeetCode 150.
-- Build strong problem-solving skills.
+Crack Software Engineering placements.
+
+Master Data Structures & Algorithms.
+
+Build strong problem-solving skills.
+
+Solve interview-level coding problems confidently.
