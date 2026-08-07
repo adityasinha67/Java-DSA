@@ -43,8 +43,8 @@ Complete Java fundamentals and master DSA for Software Engineering interviews.
 
 ##  Stats
 
-- Day: 2
-- Problems Solved: 45
+- Day: 3
+- Problems Solved: 49
 - Current Topic: Arrays
 
 ---
