@@ -28,7 +28,7 @@ This repository documents my Java + DSA preparation for Software Engineering pla
 - [x] Conditions
 - [x] Methods
 - [x] Loops
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Time Complexity
 - [ ] Pattern Based DSA 
@@ -43,9 +43,9 @@ Complete Java fundamentals and master DSA for Software Engineering interviews.
 
 ##  Stats
 
-- Day: 3
-- Problems Solved: 49
-- Current Topic: Arrays
+- Day: 4
+- Problems Solved: 66
+- Current Topic: Strings
 
 ---
 
