@@ -1,4 +1,4 @@
-//geeksforgeeks problems
+//geeksforgeeks problem
 
 public class seggregate0s1s {
 
