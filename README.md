@@ -45,11 +45,11 @@ Complete Java fundamentals and master DSA for Software Engineering interviews.
 
 ##  Stats
 
-- Day: 5
-- Problems Solved: 70
+- Day: 6
+- Problems Solved: 75
 - Current Topic: Pattern Based DSA 
     - Current Pattern: Two pointers
-    - DSA sheet problems solved: 2
+    - DSA sheet problems solved: 5
 
 ---
 
