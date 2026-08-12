@@ -7,7 +7,7 @@ public class consecutive1s {
         int n = sc.nextInt();
         int[] arr = new int[n];
         System.out.print("Enter " + n + " numbers: ");
-        for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
         int max = 0;
